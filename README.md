@@ -2,9 +2,6 @@
 
 Welcome to **Smart Fashion Chatbot**, a locally running, AI-powered chatbot built from scratch using Python, Gradio, ChromaDB, and Sentence Transformers. This chatbot helps users find fashion items (like dresses, t-shirts, shoes, undergarments, etc.) from a CSV product catalog — using intelligent semantic search.
 
-![Banner](https://i.imgur.com/AFQvMZL.png) <!-- Optional: Add a cute fashion chatbot image -->
-
----
 
 ## Features
 
