@@ -1,0 +1,149 @@
+Category,Product,Gender,Back_Style,Sleeve_Length,Color,Size,Price
+Dress,Floral,Men,Backless,Half,Blue,Free,38
+Dress,Floral,Men,Backless,Half,Green,38,61
+Dress,Floral,Unisex,Covered,Full,Green,36,82
+Dress,Floral,Unisex,Backless,Half,Red,28,61
+Dress,Floral,Unisex,Covered,Sleeveless,Green,10,89
+Dress,Floral,Men,Covered,Sleeveless,White,XS,65
+Dress,Evening,Men,Not Backless,Sleeveless,Blue,XXL,83
+Dress,Evening,Men,Not Backless,Sleeveless,Green,6,37
+Dress,Evening,Unisex,Backless,Full,Blue,S,88
+Dress,Evening,Unisex,Backless,Full,White,M,86
+Dress,Evening,Unisex,Not Backless,Full,Black,8,16
+Dress,Summer,Women,Covered,Sleeveless,Red,7,99
+Dress,Summer,Women,Not Backless,Half,Blue,6,27
+Dress,Summer,Unisex,Covered,Half,White,28,88
+Top,Crop Top,Women,Covered,Half,Yellow,38,46
+Top,Crop Top,Women,Backless,Sleeveless,White,L,78
+Top,Crop Top,Men,Covered,Sleeveless,Red,6,94
+Top,Crop Top,Women,Backless,Half,Black,10,84
+Top,Crop Top,Men,Backless,Half,Yellow,XXL,99
+Top,Crop Top,Unisex,Not Backless,Half,Yellow,Free,63
+Top,Tank Top,Women,Covered,Half,Yellow,36,103
+Top,Tank Top,Unisex,Backless,Half,Black,10,80
+Top,Tank Top,Men,Not Backless,Half,Blue,8,19
+Top,Tank Top,Men,Backless,Full,Red,30,45
+Top,T-shirt,Unisex,Covered,Sleeveless,Blue,S,37
+Top,T-shirt,Women,Covered,Sleeveless,White,28,51
+Top,T-shirt,Men,Covered,Half,Blue,6,82
+Top,T-shirt,Unisex,Covered,Half,White,S,81
+Top,T-shirt,Women,Not Backless,Full,Yellow,36,26
+Top,T-shirt,Men,Backless,Sleeveless,Blue,8,82
+Bottom,Skirt,Men,Covered,Full,Red,38,66
+Bottom,Skirt,Unisex,Covered,Half,Green,S,37
+Bottom,Skirt,Unisex,Not Backless,Half,White,38,71
+Bottom,Skirt,Men,Not Backless,Half,Blue,28,103
+Bottom,Jeans,Women,Covered,Sleeveless,White,30,38
+Bottom,Jeans,Women,Not Backless,Sleeveless,White,7,87
+Bottom,Jeans,Unisex,Backless,Full,Yellow,34,87
+Bottom,Jeans,Unisex,Not Backless,Full,Yellow,32,77
+Bottom,Jeans,Unisex,Backless,Full,White,34,92
+Bottom,Cargo Pants,Women,Not Backless,Full,Red,38,92
+Bottom,Cargo Pants,Men,Covered,Full,Red,Free,59
+Bottom,Cargo Pants,Unisex,Not Backless,Sleeveless,Yellow,40,31
+Bottom,Cargo Pants,Unisex,Backless,Sleeveless,Black,38,117
+Bottom,Cargo Pants,Unisex,Covered,Sleeveless,Red,7,73
+Bottom,Shorts,Unisex,Covered,Half,White,9,104
+Bottom,Shorts,Men,Covered,Half,White,8,37
+Bottom,Shorts,Men,Covered,Sleeveless,White,32,75
+Footwear,Sneakers,Women,Not Backless,Sleeveless,Black,40,115
+Footwear,Sneakers,Men,Not Backless,Sleeveless,Black,10,18
+Footwear,Sneakers,Men,Covered,Sleeveless,White,36,90
+Footwear,Sandals,Women,Not Backless,Full,Black,7,75
+Footwear,Sandals,Women,Not Backless,Sleeveless,White,38,90
+Footwear,Sandals,Men,Backless,Sleeveless,White,38,52
+Footwear,Formal Shoes,Unisex,Covered,Full,Green,M,80
+Footwear,Formal Shoes,Women,Not Backless,Half,Black,36,51
+Footwear,Formal Shoes,Men,Not Backless,Full,Yellow,36,37
+Footwear,Formal Shoes,Men,Backless,Full,Black,9,107
+Undergarment,Bra,Unisex,Not Backless,Half,Red,7,29
+Undergarment,Bra,Unisex,Not Backless,Sleeveless,White,30,63
+Undergarment,Bra,Unisex,Backless,Sleeveless,White,38,9
+Undergarment,Bra,Women,Backless,Sleeveless,Green,28,74
+Undergarment,Bra,Women,Covered,Sleeveless,Red,7,71
+Undergarment,Brief,Men,Not Backless,Sleeveless,Blue,S,28
+Undergarment,Brief,Men,Not Backless,Half,Black,34,69
+Undergarment,Brief,Unisex,Not Backless,Sleeveless,Red,9,13
+Undergarment,Brief,Men,Not Backless,Full,Black,Free,69
+Undergarment,Brief,Men,Backless,Half,White,34,13
+Undergarment,Boxers,Unisex,Backless,Sleeveless,Black,Free,117
+Undergarment,Boxers,Women,Not Backless,Full,Red,XXL,9
+Undergarment,Boxers,Women,Covered,Half,Red,XS,71
+Undergarment,Boxers,Women,Covered,Sleeveless,Yellow,9,64
+Undergarment,Boxers,Women,Backless,Full,Red,7,66
+Undergarment,Boxers,Women,Not Backless,Full,Red,40,57
+Undergarment,Boxers,Women,Backless,Half,White,28,8
+Accessory,Belt,Women,Not Backless,Sleeveless,Red,28,75
+Accessory,Belt,Unisex,Covered,Half,White,7,17
+Accessory,Belt,Men,Backless,Half,Green,36,75
+Accessory,Cap,Men,Backless,Full,Yellow,XL,117
+Accessory,Cap,Men,Covered,Full,Red,L,34
+Accessory,Cap,Women,Backless,Sleeveless,Blue,7,13
+Accessory,Cap,Women,Covered,Half,Green,28,26
+Accessory,Cap,Men,Covered,Half,Red,10,52
+Accessory,Cap,Unisex,Covered,Full,Red,36,38
+Accessory,Scarf,Women,Covered,Sleeveless,Yellow,L,119
+Accessory,Scarf,Unisex,Not Backless,Half,Yellow,M,90
+Accessory,Scarf,Men,Covered,Half,Red,36,32
+Accessory,Scarf,Men,Covered,Full,Black,7,120
+Accessory,Watch,Women,Not Backless,Full,Black,34,89
+Accessory,Watch,Women,Covered,Sleeveless,White,30,52
+Accessory,Watch,Unisex,Not Backless,Full,Blue,XXL,67
+Outerwear,Hoodie,Men,Backless,Full,Red,7,85
+Outerwear,Hoodie,Unisex,Not Backless,Full,Red,34,74
+Outerwear,Hoodie,Men,Not Backless,Half,Black,XL,26
+Outerwear,Hoodie,Women,Not Backless,Sleeveless,Red,S,10
+Outerwear,Hoodie,Unisex,Not Backless,Half,Blue,S,51
+Outerwear,Jacket,Men,Not Backless,Half,Black,38,26
+Outerwear,Jacket,Unisex,Not Backless,Full,Black,8,60
+Outerwear,Jacket,Men,Not Backless,Half,Green,36,112
+Outerwear,Jacket,Unisex,Covered,Sleeveless,Blue,36,110
+Outerwear,Blazer,Unisex,Not Backless,Full,Black,34,110
+Outerwear,Blazer,Men,Covered,Half,Blue,10,9
+Outerwear,Blazer,Men,Covered,Full,Blue,32,54
+Outerwear,Coat,Women,Backless,Sleeveless,Yellow,28,78
+Outerwear,Coat,Men,Covered,Full,Blue,7,93
+Outerwear,Coat,Unisex,Backless,Half,Yellow,38,116
+Outerwear,Coat,Women,Backless,Half,Blue,Free,61
+Outerwear,Coat,Women,Covered,Sleeveless,Red,XXL,22
+Outerwear,Coat,Men,Covered,Half,Black,XL,20
+Loungewear,Pajamas,Women,Backless,Half,Green,40,27
+Loungewear,Pajamas,Women,Backless,Sleeveless,Green,9,60
+Loungewear,Pajamas,Unisex,Backless,Full,Black,L,93
+Loungewear,Pajamas,Men,Covered,Sleeveless,Yellow,M,100
+Loungewear,Nightgown,Women,Backless,Sleeveless,Green,38,33
+Loungewear,Nightgown,Women,Not Backless,Half,Black,32,74
+Loungewear,Nightgown,Unisex,Backless,Half,Red,9,34
+Athletic,Sports Bra,Unisex,Not Backless,Full,Red,6,34
+Athletic,Sports Bra,Men,Covered,Sleeveless,Blue,XL,73
+Athletic,Sports Bra,Men,Not Backless,Half,Blue,XS,117
+Athletic,Sports Bra,Women,Covered,Full,Yellow,XXL,61
+Athletic,Sports Bra,Men,Not Backless,Full,White,28,62
+Athletic,Sports Bra,Women,Backless,Sleeveless,Red,6,104
+Athletic,Running Shorts,Unisex,Backless,Half,Blue,XL,118
+Athletic,Running Shorts,Men,Not Backless,Half,Blue,9,73
+Athletic,Running Shorts,Unisex,Covered,Half,White,8,17
+Athletic,Running Shorts,Women,Not Backless,Full,Blue,7,40
+Athletic,Running Shorts,Men,Not Backless,Half,Yellow,10,15
+Athletic,Running Shorts,Men,Backless,Sleeveless,Blue,XL,45
+Athletic,Running Shorts,Women,Covered,Half,Green,30,64
+Athletic,Track Pants,Unisex,Not Backless,Half,White,34,81
+Athletic,Track Pants,Men,Backless,Half,White,38,35
+Athletic,Track Pants,Unisex,Not Backless,Half,Green,38,22
+Athletic,Track Pants,Women,Covered,Half,Red,32,26
+Athletic,Track Pants,Men,Covered,Sleeveless,Yellow,32,32
+Athletic,Gym T-shirt,Women,Covered,Half,White,30,62
+Athletic,Gym T-shirt,Men,Backless,Sleeveless,White,28,49
+Athletic,Gym T-shirt,Unisex,Covered,Sleeveless,Red,40,34
+Athletic,Gym T-shirt,Men,Not Backless,Half,White,6,81
+Athletic,Gym T-shirt,Women,Backless,Sleeveless,White,L,57
+Athletic,Gym T-shirt,Unisex,Not Backless,Half,Green,38,108
+Footwear,Socks,Unisex,Backless,Sleeveless,Blue,XL,43
+Footwear,Socks,Women,Backless,Half,Red,M,6
+Footwear,Socks,Men,Covered,Full,Blue,9,102
+Footwear,Socks,Men,Covered,Full,White,L,68
+Footwear,Socks,Unisex,Covered,Full,Green,L,53
+Footwear,Slides,Men,Covered,Sleeveless,Green,10,61
+Footwear,Slides,Women,Backless,Full,Green,40,34
+Footwear,Slides,Unisex,Backless,Half,Yellow,L,41
+Footwear,Slides,Unisex,Covered,Full,Yellow,34,102
